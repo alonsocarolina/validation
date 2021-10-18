@@ -1,3 +1,4 @@
 #!/bin/bash
 
-realpath "$0"
+path=$PWD
+echo $path
