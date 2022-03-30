@@ -1,1 +1,2 @@
-cat '\*\\'"DevOps"\'\\*$\?\*\*\*\*\*:)' > Hello DevOps
+cat >> "\*\\'"DevOps"\'\\*$\?\*\*\*\*\*:)" 
+Hello DevOps
