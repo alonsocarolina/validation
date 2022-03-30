@@ -1,2 +1,1 @@
-cat >> "\*\\'"DevOps"\'\\*$\?\*\*\*\*\*:)" 
-Hello DevOps
+echo Hello Devops >> "\*\'DevOps\'\*$\?\*\*\*\*\*:)"
