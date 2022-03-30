@@ -1,5 +1,0 @@
-#!/bin/bash
-
-path=$PWD
-echo $path
-
