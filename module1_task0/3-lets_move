@@ -1,0 +1,1 @@
+copy '[:upper:]' < tmp/u
